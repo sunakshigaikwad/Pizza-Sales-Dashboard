@@ -7,4 +7,4 @@
 **📸 Screenshots:**  
 ![Dashboard Preview] 
 
-**🔗 Download Project:** [GitHub Link]  
+**🔗 Download Project:** [[GitHub Link](https://github.com/sunakshigaikwad/Pizza-Sales-Dashboard)]  
